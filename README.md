@@ -62,7 +62,7 @@ plt.legend()
 plt.title("Customer Segments")
 ```
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
 ![image](https://github.com/Dharma23012432/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/152275002/f318ed8f-c797-4033-9c91-2a19cb0bc6d3)
 ![image](https://github.com/Dharma23012432/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/152275002/856eaa55-701f-4486-a86e-e0faccafb4b1)
 ![image](https://github.com/Dharma23012432/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/152275002/d448c85d-a00c-43f9-a408-16905587dd14)
